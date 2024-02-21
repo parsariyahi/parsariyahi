@@ -1,5 +1,7 @@
 # Parsa Riyahi 👨‍💻
-
+<p align="center">
+  <img src="kaneki-icegif.gif" >
+</p>
 Parsa Riyahi is a software developer based in Tehran, Iran 🇮🇷. He is proficient in a range of technologies, including Python 🐍, Django 🎸, MySQL 🗄️, PostgreSQL 🗃️, InfluxDB 📈, and MongoDB 🍃. With experience in web development, database design and optimization, and software engineering methodologies, Parsa has a passion for developing elegant and effective solutions to complex problems.
 
 ## Skills 💪
