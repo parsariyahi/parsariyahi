@@ -2,24 +2,16 @@
 <p align="center">
   <img src="kaneki-icegif.gif" >
 </p>
-Parsa Riyahi is a software developer based in Tehran, Iran 🇮🇷. He is proficient in a range of technologies, including Python 🐍, Django 🎸, MySQL 🗄️, PostgreSQL 🗃️, InfluxDB 📈, and MongoDB 🍃. With experience in web development, database design and optimization, and software engineering methodologies, Parsa has a passion for developing elegant and effective solutions to complex problems.
 
-## Skills 💪
+I’m a software engineer with 5+ years of experience designing and building production-grade applications. Over the years I’ve worked with a range of teams and businesses, helping deliver software from the early idea stage through architecture, implementation, testing, deployment, and long-term maintenance.
 
-In addition to his core technical skills, Parsa has expertise in other areas related to Python and programming knowledge, including:
+My main focus is Python and Django, and I’ve worked extensively with databases such as MySQL, PostgreSQL, InfluxDB, and MongoDB. I enjoy designing clean, scalable systems, improving database performance, and building reliable backend services that are easy to maintain and evolve.
 
-- Object-oriented programming (OOP) concepts and design patterns
-- Test-driven development (TDD) and unit testing with frameworks like pytest and unittest
-- Web scraping and data extraction using libraries like BeautifulSoup and Scrapy
-- Concurrency and parallelism using libraries like asyncio and threading
-- Distributed systems and message queuing using tools like RabbitMQ
+I’m comfortable working with OOP and software design patterns, test-driven development, asynchronous and concurrent programming, and distributed systems using tools like RabbitMQ. I value readable code, thoughtful architecture, and collaborative development using Git and agile workflows.
 
-He is also proficient in Git and experienced in agile development methodologies.
+Outside of work, I like cycling, hiking, and exploring new places — and I’m always learning something new in software engineering or computer science to sharpen my skills and stay current with the field.
 
-## Interests 🌟
-
-Outside of work, Parsa enjoys cycling 🚴, hiking 🥾, and exploring new places 🏞️. He also enjoys reading books on software engineering and computer science, and is always looking for new ways to improve his skills and stay current with industry trends.
-
-## Contact 📞
-
-You can connect with Parsa on [LinkedIn](https://www.linkedin.com/in/parsariyahi/), reach out to him via email at `pany.parsariyahi@gmail.com`, or contact him on Telegram at `@F_who_tagged_me`.
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/parsariyahi/)
+- Email `pany.parsariyahi@gmail.com`
+- Telegram `@F_who_tagged_me`
