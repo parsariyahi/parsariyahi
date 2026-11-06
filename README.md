@@ -14,4 +14,3 @@ Outside of work, I like cycling, hiking, and exploring new places — and I’m 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/parsariyahi/)
 - Email `pany.parsariyahi@gmail.com`
-- Telegram `@F_who_tagged_me`
